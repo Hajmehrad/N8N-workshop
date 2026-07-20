@@ -1,0 +1,49 @@
+{
+  "title": "God_VPN",
+  "description": "N8N Workshop V2ray Configurations",
+  "version": "1.0",
+  "updateTime": "2026-07-20T19:30:00Z",
+  "subscriptionUrl": "https://raw.githubusercontent.com/Hajmehrad/N8N-workshop/main/God_VPN.txt",
+  "configs": [
+    {
+      "name": "Judge Bellingham",
+      "url": "vless://72bc86de-fa2a-4ce9-a367-789733122b92@judebellinghammm.hchdhsbs12gd.ir:7005?security=reality&type=tcp&headerType=&path=&host=&sni=yahoo.com&fp=qq&pbk=7aICTN0hv6bhd8bYOjNZniDYSXgD20LunZ3BW6_Zyk4&sid="
+    },
+    {
+      "name": "Tactical",
+      "url": "vless://72bc86de-fa2a-4ce9-a367-789733122b92@fdisgermab.tacticaltm.xyz:7005?security=reality&type=tcp&headerType=&path=&host=&sni=yahoo.com&fp=qq&pbk=7aICTN0hv6bhd8bYOjNZniDYSXgD20LunZ3BW6_Zyk4&sid="
+    },
+    {
+      "name": "Netherlands",
+      "url": "vless://72bc86de-fa2a-4ce9-a367-789733122b92@netherlandmyoldfrieind.hchdhsbs12gd.ir:7005?security=reality&type=tcp&headerType=&path=&host=&sni=yahoo.com&fp=qq&pbk=7aICTN0hv6bhd8bYOjNZniDYSXgD20LunZ3BW6_Zyk4&sid="
+    },
+    {
+      "name": "United States",
+      "url": "vless://72bc86de-fa2a-4ce9-a367-789733122b92@Hellltounitedstates.marzbancloud.com:7005?security=reality&type=tcp&headerType=&path=&host=&sni=yahoo.com&fp=qq&pbk=7aICTN0hv6bhd8bYOjNZniDYSXgD20LunZ3BW6_Zyk4&sid="
+    },
+    {
+      "name": "Italy",
+      "url": "vless://72bc86de-fa2a-4ce9-a367-789733122b92@italiaonlocatiano.ufou008.com:7005?security=reality&type=tcp&headerType=&path=&host=&sni=yahoo.com&fp=qq&pbk=7aICTN0hv6bhd8bYOjNZniDYSXgD20LunZ3BW6_Zyk4&sid="
+    },
+    {
+      "name": "IP Direct",
+      "url": "vless://72bc86de-fa2a-4ce9-a367-789733122b92@116.118.9.64:7005?security=reality&type=tcp&headerType=&path=&host=&sni=yahoo.com&fp=qq&pbk=7aICTN0hv6bhd8bYOjNZniDYSXgD20LunZ3BW6_Zyk4&sid="
+    },
+    {
+      "name": "Bulgaria",
+      "url": "vless://72bc86de-fa2a-4ce9-a367-789733122b92@bulgariagonnagreat.belzema.ir:7005?security=reality&type=tcp&headerType=&path=&host=&sni=yahoo.com&fp=qq&pbk=7aICTN0hv6bhd8bYOjNZniDYSXgD20LunZ3BW6_Zyk4&sid="
+    },
+    {
+      "name": "Old Germany",
+      "url": "vless://72bc86de-fa2a-4ce9-a367-789733122b92@Oldgermabiletsday.marzbancloud.com:7005?security=reality&type=tcp&headerType=&path=&host=&sni=yahoo.com&fp=qq&pbk=7aICTN0hv6bhd8bYOjNZniDYSXgD20LunZ3BW6_Zyk4&sid="
+    },
+    {
+      "name": "Turkish VIP",
+      "url": "vless://72bc86de-fa2a-4ce9-a367-789733122b92@theturkishvip.belzema.ir:6006?security=reality&type=tcp&headerType=&path=&host=&sni=yahoo.com&fp=qq&pbk=7aICTN0hv6bhd8bYOjNZniDYSXgD20LunZ3BW6_Zyk4&sid="
+    },
+    {
+      "name": "Finland",
+      "url": "vless://72bc86de-fa2a-4ce9-a367-789733122b92@Finlandioninnn.newiranfreemarz.sbs:7005?security=reality&type=tcp&headerType=&path=&host=&sni=yahoo.com&fp=qq&pbk=7aICTN0hv6bhd8bYOjNZniDYSXgD20LunZ3BW6_Zyk4&sid="
+    }
+  ]
+}
